@@ -294,3 +294,9 @@ Press `Ctrl+C` to gracefully stop the bot. It will:
 - Complete current operations
 - Display final statistics
 - Close exchange connections properly
+
+## Donations
+
+If you find this project helpful, consider supporting development:
+
+**Ethereum/BSC/Polygon:** `0xE4C92f5614CCfE84e4DB57a86e5147805d928046`
